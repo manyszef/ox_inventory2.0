@@ -8,3 +8,4 @@ zmień pod siebie inventory.cfg lub zostaw jak jest
 masz gotowe inventory na wzór 5City 2.0
 5City-oczko jest zrobione pod te inventory więc polecam używać
 Więcej rzeczy z 5City na dc many#3330
+Wymagane ox_lib i oxmysql do inventory
