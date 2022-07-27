@@ -1,5 +1,5 @@
 # ekwipunek-5City
-ox_inventory przerobione na wzór 5City 2.0
+ox_inventory przerobione na wzór pięciu miast
 
 wrzuć ox_inventory do resources (NIE ZMIENIAJ NAZWY)
 wrzuć inventory.cfg w to samo miejsce gdzie server.cfg
